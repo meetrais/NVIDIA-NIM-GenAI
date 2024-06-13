@@ -11,7 +11,7 @@ https://build.nvidia.com/explore/discover
 
 4) Copy and save the generated key as NVIDIA_API_KEY. From there, you should have access to the endpoints.
 
-## Create NVIDIA_API_KEY on Nvidia site
+## Create Tavily Key
 Create Tavily Key on this site -> https://tavily.com/
 
 ## Run below command to set NVIDIA_API_KEY into Environment Variables
