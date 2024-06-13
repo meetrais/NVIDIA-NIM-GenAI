@@ -9,7 +9,10 @@ https://build.nvidia.com/explore/discover
 
 3) Under Input select the Python tab, and click Get API Key. Then click Generate Key.  
 
-4) Copy and save the generated key as NVIDIA_API_KEY. From there, you should have access to the endpoints.  
+4) Copy and save the generated key as NVIDIA_API_KEY. From there, you should have access to the endpoints.
+
+## Create NVIDIA_API_KEY on Nvidia site
+Create Tavily Key on this site -> https://tavily.com/
 
 ## Run below command to set NVIDIA_API_KEY into Environment Variables
 
@@ -17,8 +20,8 @@ https://build.nvidia.com/explore/discover
 export NVIDIA_API_KEY="Your NVIDIA_API_KEY"
 
 ### On Windows
+
 setx NVIDIA_API_KEY "Your NVIDIA_API_KEY"
-=========================================================
 
 ## Run App
 Python/Python3 app.py
